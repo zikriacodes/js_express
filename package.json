@@ -1,0 +1,22 @@
+{
+  "name": "js_express",
+  "version": "1.0.0",
+  "description": "Simple Express.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zikria35/js_express.git"
+  },
+  "author": "Zikria Azimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zikria35/js_express/issues"
+  },
+  "homepage": "https://github.com/zikria35/js_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
